@@ -22,7 +22,7 @@
     "child_process": "^1.0.2",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
-    "dexie": "^3.0.1",
+    "dexie": "^3.2.2",
     "electron-localshortcut": "^3.2.1",
     "element-ui": "^2.13.2",
     "express": "^4.17.1",
