@@ -6159,6 +6159,13 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
+m3u@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/m3u/-/m3u-0.0.2.tgz#cb971743b434efd8c77b3cc3a47fc0411a903df7"
+  integrity sha512-wd4ozThz83yE8uqxt2I03bvMcMN9jkCnRvSmkgxTGdGC8PAc7H9uCzsE2C/L4s5RRzjsDYF09Inwk9pfS28wuQ==
+  dependencies:
+    oop "0.0.3"
+
 make-dir@^2.0.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
@@ -6811,6 +6818,11 @@ onetime@^5.1.0:
   integrity sha512-5NcSkPHhwTVFIQN+TUqXoS5+dlElHXdpAWu9I0HP20YOtIi+aZ0Ct82jdlILDxjLEAWwvm+qj1m6aEtsDVmm6Q==
   dependencies:
     mimic-fn "^2.1.0"
+
+oop@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/oop/-/oop-0.0.3.tgz#70fa405a5650891a194fdc82ca68dad6dabf4401"
+  integrity sha512-NCkLvw6ZyDnLCFNWIXtbrhNKEVBwHxv8n003Lum8Y5YF3dZtbSYSZZN/8gGJ1Ey52hCpsBQ6n5qutYAc4OOhFA==
 
 open@^6.3.0:
   version "6.4.0"
@@ -8461,9 +8473,9 @@ shebang-regex@^3.0.0:
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
 shell-quote@^1.6.1:
-  version "1.7.2"
-  resolved "https://registry.npmjs.org/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
+  integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.3"
