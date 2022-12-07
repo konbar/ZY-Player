@@ -3242,9 +3242,9 @@ decamelize@^3.2.0:
     xregexp "^4.2.4"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.3.0:
   version "3.3.0"
@@ -6159,6 +6159,13 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
+m3u@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/m3u/-/m3u-0.0.2.tgz#cb971743b434efd8c77b3cc3a47fc0411a903df7"
+  integrity sha512-wd4ozThz83yE8uqxt2I03bvMcMN9jkCnRvSmkgxTGdGC8PAc7H9uCzsE2C/L4s5RRzjsDYF09Inwk9pfS28wuQ==
+  dependencies:
+    oop "0.0.3"
+
 make-dir@^2.0.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
@@ -6811,6 +6818,11 @@ onetime@^5.1.0:
   integrity sha512-5NcSkPHhwTVFIQN+TUqXoS5+dlElHXdpAWu9I0HP20YOtIi+aZ0Ct82jdlILDxjLEAWwvm+qj1m6aEtsDVmm6Q==
   dependencies:
     mimic-fn "^2.1.0"
+
+oop@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/oop/-/oop-0.0.3.tgz#70fa405a5650891a194fdc82ca68dad6dabf4401"
+  integrity sha512-NCkLvw6ZyDnLCFNWIXtbrhNKEVBwHxv8n003Lum8Y5YF3dZtbSYSZZN/8gGJ1Ey52hCpsBQ6n5qutYAc4OOhFA==
 
 open@^6.3.0:
   version "6.4.0"
