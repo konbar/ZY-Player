@@ -6159,6 +6159,13 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
+m3u@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/m3u/-/m3u-0.0.2.tgz#cb971743b434efd8c77b3cc3a47fc0411a903df7"
+  integrity sha512-wd4ozThz83yE8uqxt2I03bvMcMN9jkCnRvSmkgxTGdGC8PAc7H9uCzsE2C/L4s5RRzjsDYF09Inwk9pfS28wuQ==
+  dependencies:
+    oop "0.0.3"
+
 make-dir@^2.0.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
@@ -6811,6 +6818,11 @@ onetime@^5.1.0:
   integrity sha512-5NcSkPHhwTVFIQN+TUqXoS5+dlElHXdpAWu9I0HP20YOtIi+aZ0Ct82jdlILDxjLEAWwvm+qj1m6aEtsDVmm6Q==
   dependencies:
     mimic-fn "^2.1.0"
+
+oop@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/oop/-/oop-0.0.3.tgz#70fa405a5650891a194fdc82ca68dad6dabf4401"
+  integrity sha512-NCkLvw6ZyDnLCFNWIXtbrhNKEVBwHxv8n003Lum8Y5YF3dZtbSYSZZN/8gGJ1Ey52hCpsBQ6n5qutYAc4OOhFA==
 
 open@^6.3.0:
   version "6.4.0"
@@ -7742,9 +7754,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.npmjs.org/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
