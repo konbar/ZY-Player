@@ -25,7 +25,7 @@
     "dexie": "^3.0.1",
     "electron-localshortcut": "^3.2.1",
     "element-ui": "^2.13.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-xml-parser": "^3.17.4",
     "html2canvas": "^1.0.0-rc.5",
     "iptv-playlist-parser": "^0.5.0",
